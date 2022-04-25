@@ -19,3 +19,9 @@ This repository provides reference to all the objectives achieved this semester 
 
 # [Final Report](https://github.com/bhavesh2799/Project-Work-SOP-CS/blob/main/SOP%20Paper%20CS(3).pdf)
 
+
+
+# Acknowledgement
+
+I would like to thank Yashwardhan Sir and PS Raju Sir at BITS Pilani for this amazing learning experience  in conversational AI and for supporting and guiding us at each and every step.
+
