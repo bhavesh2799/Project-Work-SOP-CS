@@ -21,6 +21,8 @@ This repository provides reference to all the objectives achieved this semester 
 
 [SOP Paper CS.pdf](https://github.com/bhavesh2799/Project-Work-SOP-CS/files/8659191/SOP.Paper.CS.7.pdf)
 
+# Presentation
+[Conversational Question Answering System.pdf](https://github.com/bhavesh2799/Project-Work-SOP-CS/files/8663145/Conversational.Question.Answering.System.1.pdf)
 
 
 # Acknowledgement
